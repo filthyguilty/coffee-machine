@@ -1,2 +1,2 @@
 # coffee-machine
-coffe machine
+Кофе-машина группы 380
